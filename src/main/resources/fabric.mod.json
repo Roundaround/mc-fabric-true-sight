@@ -3,7 +3,7 @@
   "id": "truesight",
   "version": "${version}",
   "name": "True Sight",
-  "description": "Force invisible entities to render using a new F3/debug keybind.",
+  "description": "Force invisible entities to render with F3 + M.",
   "authors": [
     "Roundaround"
   ],
