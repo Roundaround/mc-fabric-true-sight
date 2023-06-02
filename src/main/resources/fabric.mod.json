@@ -3,12 +3,12 @@
   "id": "truesight",
   "version": "${version}",
   "name": "True Sight",
-  "description": "Force invisible entities to render with F3 + M.",
+  "description": "Force invisible entities to render with F3 + M.\n${library}",
   "authors": [
     "Roundaround"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/roundaround-true-sight",
+    "homepage": "https://modrinth.com/mod/true-sight",
     "sources": "https://github.com/Roundaround/mc-fabric-true-sight",
     "issues": "https://github.com/Roundaround/mc-fabric-true-sight/issues"
   },
@@ -20,8 +20,7 @@
   ],
   "depends": {
     "fabricloader": ">=0.13.3",
-    "fabric": "*",
-    "minecraft": "1.19.x",
+    "minecraft": ">=1.20-beta.1 <1.21",
     "java": ">=17"
   }
 }
